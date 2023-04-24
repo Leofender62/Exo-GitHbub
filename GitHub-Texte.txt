@@ -1,3 +1,5 @@
 Exo GitHUb . On espère que ça va aller. On y croit !
 
 Deuxième étape. Modofication du fichier et commit.
+
+Troisième étape. On refait une modif et on met à jour le repo.
