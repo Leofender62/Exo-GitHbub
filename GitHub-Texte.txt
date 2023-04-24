@@ -1,1 +1,3 @@
 Exo GitHUb . On espère que ça va aller. On y croit !
+
+Deuxième étape. Modofication du fichier et commit.
